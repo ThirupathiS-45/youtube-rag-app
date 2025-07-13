@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Chroma vectorstore (if stored locally)
+chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit files
+.streamlit/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
